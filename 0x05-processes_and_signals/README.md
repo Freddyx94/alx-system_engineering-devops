@@ -33,4 +33,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * 6. Stop me if you can
 * 7. Highlander
 * 8. Beheaded process
-9. Process and PID file
+* 9. Process and PID file
