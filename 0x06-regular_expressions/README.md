@@ -11,7 +11,7 @@
 * The first line of all your Bash scripts should be exactly #!/usr/bin/env ruby
 * All your regex must be built for the Oniguruma library
 
-# Tsks
+# Tasks
 * 0. Simply matching School
 * 1. Repetition Token #0
 * 2. Repetition Token #1
